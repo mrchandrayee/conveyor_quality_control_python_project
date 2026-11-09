@@ -1,0 +1,57 @@
+{
+  "reference_width": 576,
+  "reference_height": 1024,
+  "polygon_ref": [
+    [
+      295,
+      654
+    ],
+    [
+      541,
+      602
+    ],
+    [
+      522,
+      660
+    ],
+    [
+      564,
+      706
+    ],
+    [
+      562,
+      974
+    ],
+    [
+      308,
+      1003
+    ]
+  ],
+  "stamp_roi_ref": [
+    340,
+    550,
+    510,
+    760
+  ],
+  "count_line_ref": [
+    [
+      313,
+      851
+    ],
+    [
+      538,
+      803
+    ]
+  ],
+  "min_area": 70,
+  "max_area": 12000,
+  "min_circularity": 0.18,
+  "max_match_distance": 65,
+  "track_max_missed": 12,
+  "count_direction": "any",
+  "output_dir": "output",
+  "save_video": true,
+  "show_window": true,
+  "class_thresholds": null,
+  "piston_motion_threshold": 8.0
+}
